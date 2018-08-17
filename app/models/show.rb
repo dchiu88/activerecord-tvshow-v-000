@@ -1,2 +1,2 @@
-class Show < ActiveRecord::Base 
+class Show < ActiveRecord::Base[5.1]
 end
